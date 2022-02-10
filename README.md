@@ -7,6 +7,10 @@ Collaboration locale for automation scripting On-Prem/Azure ADDS implementations
 
 ----- PowerShell
 
+------- PS1-references
+
+------- CSV-references
+
 ----- Python
 
 ----- Arduino
